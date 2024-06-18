@@ -19,9 +19,9 @@ EduGenQA aims to revolutionize the e-learning experience by leveraging advanced 
 
 # Usage
 1. Run the Streamlit app by executing:
-        streamlit run main.py
-2.The web app will open in your browser.
+   > streamlit run main.py
+2. The web app will open in your browser.
 
-    To create a knowledebase of FAQs, click on Create Knolwedge Base button. It will take some time before knowledgebase is created so please wait.
-    Once knowledge base is created you will see a directory called faiss_index in your current folder
-    Now you are ready to ask questions. Type your question in Question box and hit Enter
+    > To create a knowledebase of FAQs, click on Create Knolwedge Base button. It will take some time before knowledgebase is created so please wait.
+    > Once knowledge base is created you will see a directory called faiss_index in your current folder
+    > Now you are ready to ask questions. Type your question in Question box and hit Enter
