@@ -6,7 +6,7 @@ EduGenQA aims to revolutionize the e-learning experience by leveraging advanced 
 ![Screenshot 2024-06-18 104537](https://github.com/sushmamareddy/EduGenQA-Intelligent-Q-A-System-for-E-learning-via-GoogleGenerativeAI-and-Langchain/assets/36449873/6bc84b69-3580-4c3b-9fbd-9c50d52a9a58)
 
 # Project Highlights
-1. Use a real CSV file of FAQs that Codebasics company is using right now.
+1. Use a  CSV file of FAQs
 2. Their human staff will use this file to assist their course learners.
 3. We will build an LLM based question and answer system that can reduce the workload of their human staff.
 4. Students should be able to use this system to ask questions directly and get answers within seconds
